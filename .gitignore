@@ -22,6 +22,9 @@ lib-cov
 coverage
 *.lcov
 
+# AWS config settings (personal)
+config.json
+
 # nyc test coverage
 .nyc_output
 

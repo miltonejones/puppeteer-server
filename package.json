@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1087.0", 
+    "puppeteer": "^10.2.0",
+    "sharp": "^0.30.2",
+    "ws": "^8.4.2"
+  }
+}
